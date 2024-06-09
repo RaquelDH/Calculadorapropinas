@@ -1,5 +1,6 @@
 🧮 Calculadora de Propinas
-¡Bienvenido a la Calculadora de Propinas! Esta es una herramienta útil para calcular la propina a dejar en un restaurante o establecimiento.
+¡Bienvenido a la Calculadora de Propinas! 
+Esta es una herramienta útil para calcular la propina a dejar en un restaurante o establecimiento.
 
 Descripción
 La Calculadora de Propinas te permite calcular fácilmente la propina a partir del total de la cuenta y el porcentaje de propina deseado. ¡Nunca más tendrás que hacer cálculos complicados en tu cabeza!
